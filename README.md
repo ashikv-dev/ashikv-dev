@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
- I'm Ashik V [Web Developer][Cyber Sec Researcher] 👋
+### I'm Ashik V [Web Developer][Cyber Sec Researcher] 👋
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to freelance projects
