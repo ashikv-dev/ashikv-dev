@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to freelance projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to workout in the gym
 
 
